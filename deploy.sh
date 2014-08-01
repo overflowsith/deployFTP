@@ -1,7 +1,7 @@
 #!/bin/bash
 
 HOST=
-USERNAME=ftpsvil
+USERNAME=
 PASSWORD=
 TARGETDIR=/
 LOCALDIR=.
