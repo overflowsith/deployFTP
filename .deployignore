@@ -1,0 +1,5 @@
+.deployignore
+deploy.sh
+
+.git
+.gitignore
